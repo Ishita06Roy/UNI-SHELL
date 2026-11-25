@@ -1,0 +1,6 @@
+output.txt
+shell.c
+shell.exe
+test.c
+test.exe
+Sun, Nov 15, 2026 12:21:00 PM
